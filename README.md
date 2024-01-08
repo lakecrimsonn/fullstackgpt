@@ -9,7 +9,7 @@
 
 ## 가상환경 실행
 
-- 사용하는 os 플랫폼마다 실행하는 방법이 다르다. 사용하는 터미널에 따라서 명령어가 다르다. <venv>는 가상환경 디렉터리를 의미한다. 현재 가상환경 이름은 env. 더 자세한 내용은 다큐멘터리 참고하기. [파이썬 가상환경 다큐멘터리](https://docs.python.org/ko/3/library/venv.html)
+- 사용하는 os 플랫폼마다 가상환경 실행하는 방법이 다르다. 사용하는 터미널에 따라서 명령어가 다르다. <venv>는 가상환경 디렉터리를 의미한다. 현재 가상환경 이름은 env. 더 자세한 내용은 다큐멘터리 참고하기. [파이썬 가상환경 다큐멘터리](https://docs.python.org/ko/3/library/venv.html)
     - windows cmd.exe `C:\> <venv>\Scripts\activate.bat`  bash/zsh `$ source <venv>/bin/activate`
 - requrements.txt 파일 생성하고 아래 링크의 디펜던시를 복사해주자. gpt apps에 필요한 기본적인 디펜던시 모음. [gpt app dependency](https://gist.github.com/serranoarevalo/72d77c36dde1cc3ffec34105eb666140)
     - `pip install -r requirements.txt` 디팬던시 설치하기
