@@ -1,5 +1,5 @@
 # fullstack-gpt
 
-# 2. langchain basic
+# 3. model io
 
-- langchain_basic.ipynb 파일 확인해보기
+- modelio.ipynb 파일 참고하기.
