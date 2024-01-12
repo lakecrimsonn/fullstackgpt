@@ -1,5 +1,5 @@
 # fullstack-gpt
 
-# 3. model io
+# 4. memory
 
-- modelio.ipynb 파일 참고하기.
+- memory.ipynb파일 참고하기.
